@@ -1,0 +1,34 @@
+date,journal,anger,disgust,fear,joy,neutral,sadness,surprise,strongest_emotion
+2025-01-01,What a great day!!! Looks like dream.,0.005729,0.0008079,0.0040956,0.5618504,0.0492392,0.0092869,0.3689909,joy
+2025-01-02,"I feel sorry, I miss you here in the sea beach",0.0008179,0.0027033,0.0012839,0.0013603,0.0088283,0.9814741,0.0035321,sadness
+2025-01-03,Don't angry me,0.9662668,0.0038065,0.0036675,0.001451,0.0137187,0.0087411,0.0023484,anger
+2025-01-04,We attend in the class just for listening teachers reading on slide. Just Nonsence  ,0.0278041,0.2574565,0.0347621,0.0050877,0.6581662,0.0076031,0.0091203,neutral
+2025-01-05,"Those who want to go, let them go",0.5467961,0.0477375,0.0473005,0.0255675,0.3128321,0.014322,0.0054443,anger
+2025-01-06,"Its night 2 am, feeling neutral",0.0033826,0.002003,0.0003923,0.911162,0.0539096,0.0233037,0.005847,joy
+2025-01-07,2 am feedings for the baby are fun when he is all smiles and coos,0.0013408,0.0010186,0.0002576,0.9788414,0.0104647,0.0032816,0.0047952,joy
+2025-01-08,Soooo high,0.021683,0.0472422,0.009714,0.0118575,0.1399534,0.0577493,0.7118006,surprise
+2025-01-09, Both of you,0.0079024,0.0167484,0.0025207,0.0295155,0.708087,0.0573929,0.1778333,neutral
+2025-01-10,Today first time I arrive in the boat. Its amazing journey,0.0024423,0.0010785,0.0429353,0.5080766,0.0186081,0.0032955,0.4235636,joy
+2025-01-11,Love is something like E=MC^2 rules,0.0053876,0.0103044,0.0008425,0.0347648,0.9277562,0.0064631,0.0144814,neutral
+2025-01-12,I really really like the song Cardigan by Taylor Swift,0.0008544,0.0006648,0.0008197,0.9862474,0.0028225,0.0026665,0.0059247,joy
+2025-01-13,My Sharpie is running DANGERously low on ink,0.5009116,0.113572,0.0915843,0.0020889,0.0379645,0.0382745,0.2156041,anger
+2025-01-14,i want to go to music tonight but i lost my voice.,0.0019422,0.0010875,0.0028285,0.0010982,0.0037215,0.9845718,0.0047503,sadness
+2025-01-15,Always somewhere I miss you where I have been,0.0,0.0,0.0,0.0,0.0,0.0,0.0,anger
+2025-01-16,Don't distrube me,0.2246516,0.2861792,0.186781,0.0059427,0.2132909,0.0792,0.0039545,disgust
+2025-01-17,"I don't care, who are you and what can you do",0.6062657,0.1059112,0.0049788,0.0037104,0.2538228,0.0095973,0.0157139,anger
+2025-01-18,i`ve been sick for the past few days ,0.0419476,0.0044164,0.4809704,0.0180531,0.0033927,0.4495484,0.0016714,fear
+2025-01-19,"I'm come back home, my past job, its really good time for me",0.0013328,0.0009792,0.0012141,0.9385126,0.0173501,0.0278707,0.0127404,joy
+2025-01-20,I will never fall in love until I found you,0.0011953,0.0006921,0.0035996,0.9372511,0.0129389,0.0350687,0.0092542,joy
+2025-01-21," oh Maya, I`m so sorry!!  I hope you find her soon!! ",0.0104158,0.0048254,0.0589627,0.0073737,0.0175013,0.8477419,0.0531791,sadness
+2025-01-22,"Playing with kids, its amazing",0.0014221,0.0016184,0.0022884,0.8361404,0.0108899,0.0046083,0.1430325,joy
+2025-01-23,is cleaning the house for her family who is comming later today..,0.0106959,0.0081918,0.0017561,0.1391675,0.260749,0.5053948,0.074045,sadness
+2025-01-24,I tried to shtdown my pc and accenditenly I click in the restart button. Its really disgusting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,anger
+2025-01-25,"Follow me, I will follow you too",0.0,0.0,0.0,0.0,0.0,0.0,0.0,anger
+2025-01-26,"Its amazing game, I playing everyday",0.0,0.0,0.0,0.0,0.0,0.0,0.0,anger
+2025-01-27,  I`m sorry.,0.0,0.0,0.0,0.0,0.0,0.0,0.0,anger
+2025-01-28,"I'm in the village now and there hardly found internate, feeling gloomy",0.0,0.0,0.0,0.0,0.0,0.0,0.0,anger
+2025-01-29,juss came back from Barisal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,anger
+2025-01-30,Went to sleep and there is a power cut in the village. ,0.1075046,0.0588415,0.4310242,0.0016704,0.0431122,0.223324,0.1345231,fear
+2025-01-31,How looks like our company new logo?,0.0056311,0.0049528,0.0024735,0.0082855,0.8149181,0.0037846,0.1599543,neutral
+2025-02-01,"I buy Sophie's world book, I'm really so happy",0.0011896,0.0003556,0.0004373,0.9564519,0.0035032,0.0089771,0.0290853,joy
+2025-02-02,"Life feels like an endless loop of sadness, a hollow existence where every day blends into the next without meaning. I wake up tired, not from lack of sleep but from the weight of simply being. The world moves on around me, yet I remain stuck, drowning in thoughts I can’t escape. I try to smile, to pretend that everything is fine, but inside, I am breaking. The loneliness is unbearable, even in a room full of people. I scream silently, hoping someone will notice, but no one ever does. Dreams that once burned brightly have faded into shadows, and hope feels like a distant memory. I wonder if things will ever change or if this sadness is all that’s left for me. It hurts to breathe, to exist, to be. Maybe tomorrow will be different, but deep down, I fear that tomorrow will be just the same.",0.0057,0.0088,0.0526,0.0013,0.0232,0.9024,0.006,sadness
